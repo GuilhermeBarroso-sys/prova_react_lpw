@@ -1,2 +1,3 @@
 # prova_react_lpw
-## https://prova-react-lpw.vercel.app/
+## A aplicação está funcionando nesse link:
+  - https://prova-react-lpw.vercel.app/
